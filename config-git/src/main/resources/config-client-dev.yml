@@ -1,5 +1,5 @@
 info:
-  profile: default
+  profile: config-git-dev
   from: git2
 
 test: bbbf
